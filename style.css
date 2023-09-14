@@ -71,6 +71,8 @@ main {
 
   min-height: 180px;
   margin: 20px;
+
+  box-shadow: -1px 3px 37px -10px rgba(0,0,0,0.57);
 }
 
 .stop {
@@ -128,6 +130,12 @@ main .wrap {
   appearance: none;
   outline: none;
   user-select: none;
+  box-shadow: -1px 3px 37px -10px rgba(19, 13, 13, 0.842);
+}
+
+button:hover {
+  transition: all 0.1s ease;
+  background-color: rgb(36, 36, 250);
 }
 .btn .Start {
   position: absolute;
