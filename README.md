@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://heisemmaco-dev.github.io/stop-watch-heisemmaco-dev/)
+- <a href="https://heisemmaco-dev.github.io/stop-watch-heisemmaco-dev/">Live site</a>
 
 ### Built with
 
